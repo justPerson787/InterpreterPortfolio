@@ -1261,6 +1261,9 @@ team
   /* position: relative;
   z-index: 2;*/
 }
+.resume-field:first-child {
+  padding-top: 15px;
+}
 
 .resume-topics {
   display: flex;
